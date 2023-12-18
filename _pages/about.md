@@ -25,7 +25,7 @@ social: false  # includes social icons at the bottom of the page
 <script src="https://kit.fontawesome.com/568534ed70.js" crossorigin="anonymous"></script>
 
 
-Hello World! I'm Gerrit Großmann, and delighted that you've discovered my academic webpage.
+Hello World! My name is Gerrit Großmann, welcome to my personal academic webpage!
 I work at the research department on [Neuro-mechanistic Modeling](https://www.dfki.de/nmm) at the  <a href='https://www.dfki.de/web'>German Research Center for Artifical Intelligenc (DFKI)</a>.
 
 **Research Interests:** <br>
